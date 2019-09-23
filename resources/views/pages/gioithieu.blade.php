@@ -1,5 +1,5 @@
 
-@extends('master-layout')
+@extends('lay-out.master-layout')
 
 @section('content')
   <main>
